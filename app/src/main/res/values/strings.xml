@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Toasts</string>
+    <string name="button1">NORMAL TOAST</string>
+    <string name="button2">CUSTOM POSITION TOAST</string>
+    <string name="button3">CUSTOM LAYOUT TOAST</string>
+</resources>
